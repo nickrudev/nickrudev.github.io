@@ -1,0 +1,5 @@
+.back {
+    background: linear-gradient(#66c2ff, transparent 50%), linear-gradient(0deg, #f000, transparent), url(../img/ourHistory_retina.jpg) no-repeat center;
+    background-size: cover;
+    
+}
